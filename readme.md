@@ -25,7 +25,7 @@
 - [ghz](https://ghz.sh/)
 
 ## Samples
-- [Microsoft Samples]https://github.com/grpc/grpc-dotnet/tree/master/examples/
+- [Microsoft Samples](https://github.com/grpc/grpc-dotnet/tree/master/examples/)
 
 ## Further Reading
 
